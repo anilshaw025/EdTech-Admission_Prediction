@@ -41,15 +41,15 @@ Linear Regression
 - Check correlation among independent variables and how they interact with each other.
 - Use Linear Regression from (Statsmodel library) and explain the results.
 - Test the assumptions of linear regression:
-    Multicollinearity check by VIF score
+    - Multicollinearity check by VIF score
   
-    Mean of residuals
+    - Mean of residuals
   
-    Linearity of variables (no pattern in residual plot)
+    - Linearity of variables (no pattern in residual plot)
   
-    Test for Homoscedasticity
+    - Test for Homoscedasticity
   
-    Normality of residuals
+    - Normality of residuals
   
 - Do model evaluation- MAE, RMSE, R2 score, Adjusted R2.
 - Provide actionable Insights & Recommendations
